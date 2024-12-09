@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="35MkhTKuBECdqpl7UIEJlQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/bank/account" CVScreenId="f065af59-5ce3-4c68-aaa1-dfe30e6715af" CvElementArea="1180, 265, 99, 63" CvTextArea="1214, 287, 31, 19" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="1181, 267, 96, 58" DesignTimeScaleFactor="1.5" ElementType="Button" FullSelectorArgument="&lt;ctrl name='acme-test.uipath.com says' role='dialog' /&gt;&lt;ctrl name='OK' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='acme-test.uipath.com says' role='dialog' /&gt;&lt;ctrl name='OK' role='push button' automationid='' check:fulltext='OK' /&gt;" Guid="61041bbf-2b3b-423d-a197-4a90c1c53b5e" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Add Account - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f065af59-5ce3-4c68-aaa1-dfe30e6715af" CvTextArea="662, 171, 292, 28" CvTextArgument="acme-test.uipath.com says" CvType="Text" DesignTimeRectangle="662, 171, 292, 28" ElementType="Text" Guid="b88d67cd-0cd4-4c75-a015-bfad3cbe2087" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1014d7760e109db1136cb830a406f6cd.png" xmlns="">0gesHazQJXkixbPhz0rp7uA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Points Tracker",
+  "Type": "App",
+  "Id": "Pzd2hRE1T0uGhYLskBw4tA",
+  "Reference": "BLjX-sZ0wkG2qksR0ycgKg/Pzd2hRE1T0uGhYLskBw4tA",
+  "Created": "2024-12-09T07:23:32.9583355Z",
+  "Updated": "2024-12-09T07:23:32.9583355Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Slbj7kPnUUyEYz8HGkj8mQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="forms.office.com/Pages/ResponsePage.aspx" CVScreenId="a94c0c2d-a420-4e93-b0e7-842e5b2fb12f" CvTextArea="840, 693, 236, 24" CvTextArgument="Submit another response" CvType="Text" DesignTimeRectangle="842, 688, 233, 28" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Submit another response' tag='SPAN' type='' class='' check:innerText='Submit another response' /&gt;" Guid="b921961d-05df-4b2b-ae8d-de3464c6b70f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Points Tracker' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a5ff66b649bef3be61278a45baf8e1d2.png" xmlns="">0Q1OuH3vZZEOUGG5KJfsoVw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

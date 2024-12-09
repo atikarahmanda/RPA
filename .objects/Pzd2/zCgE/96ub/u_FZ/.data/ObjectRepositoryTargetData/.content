@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FgNTMShCsEuQgUmyNY5OPg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="forms.office.com/Pages/ResponsePage.aspx" CVScreenId="7b680e2b-dd72-4969-ad7d-8f73da7f96c3" CvElementArea="406, 773, 135, 65" CvTextArea="437, 795, 72, 19" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="409, 775, 130, 60" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl class='css-189' tag='BUTTON' type='' aaname='Submit' check:innerText='Submit' /&gt;" Guid="f0d6e690-c2b7-4b53-8ef5-66dba9bc4961" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Points Tracker' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="082ddf763c075778e209fb5c1d8c9e6d.png" xmlns="">0FDNPTyPMPEeJ1m1BlBJRNA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

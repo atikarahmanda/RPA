@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="x2o63UhYd0q-U_VYn4Uzsw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="emn178.github.io/online-tools/sha256.html" CVScreenId="1ac06afc-abb0-42d8-a5d0-a9ddc84236d8" CvElementArea="974, 323, 956, 311" CvType="InputBox" DesignTimeRectangle="971, 319, 960, 321" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='input' tag='TEXTAREA' type='' class='container' placeholder='Enter here...' aaname='' /&gt;" Guid="98a36052-0e26-40d6-a2da-6457a8a30f53" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHA256 - Online Tools' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b0463fa0ef35e60392e23309b5eacb79.png" xmlns="">086_QPD6ejU-I8J2jFHrgmg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

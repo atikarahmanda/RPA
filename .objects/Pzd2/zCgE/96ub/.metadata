@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Points Tracker",
+  "Type": "Screen",
+  "Id": "96ubmE2XnE6A3dkQAnFAbw",
+  "Reference": "BLjX-sZ0wkG2qksR0ycgKg/96ubmE2XnE6A3dkQAnFAbw",
+  "ParentRef": "BLjX-sZ0wkG2qksR0ycgKg/zCgEPf5FzkmXvqt2gZYKow",
+  "Created": "2024-12-09T07:23:33.1058373Z",
+  "Updated": "2024-12-09T07:23:33.1058373Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
